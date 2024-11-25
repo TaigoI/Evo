@@ -1,0 +1,11 @@
+entity1,relationship,entity2
+mulheres,analisar,problema
+mulheres,enfrentar,desafios
+governo,negligenciar,trabalho de cuidado
+mídia,influência,trabalho de cuidado
+mulheres,afirmar,solução
+solução,ser,solução
+desafios,afetar,desafios
+desafios,afetar,mulheres
+governo,exercer,negligenciar
+mídia,exercer,influência

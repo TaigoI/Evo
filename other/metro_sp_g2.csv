@@ -1,0 +1,67 @@
+origin,destination,line
+Jabaquara,Conceição,Azul
+Conceição,São Judas,Azul
+Santa Cruz,Vila Mariana,Azul
+Vila Mariana,Ana Rosa,Azul
+Ana Rosa,Paraíso,Azul
+São Joaquim,Liberdade,Azul
+Liberdade,Sé,Azul
+Tiradentes,Armênia,Azul
+Armênia,Portuguesa-Tietê,Azul
+Portuguesa-Tietê,Carandiru,Azul
+Carandiru,Santana,Azul
+Parada Inglesa,Tucuruvi,Azul
+Palmeiras-Barra Funda,Marechal Deodoro,Vermelha
+Marechal Deodoro,Santa Cecília,Vermelha
+Santa Cecília,República,Vermelha
+República,Anhangabaú,Vermelha
+Anhangabaú,Sé,Vermelha
+Sé,Brás,Vermelha
+Belem,Tatuapé,Vermelha
+Tatuapé,Carrão,Vermelha
+Carrão,Penha,Vermelha
+Penha,Vila Matilde,Vermelha
+Vila Matilde,Guilhermina-Esperança,Vermelha
+Guilhermina-Esperança,Patriarca,Vermelha
+Patriarca,Artur Alvim,Vermelha
+Artur Alvim,Corinthians-Itaquera,Vermelha
+São Lucas,Camilo Haddad,Prata
+Camilo Haddad,Vila Tolstói,Prata
+Jardim Planalto,Sapopemba,Prata
+Sapopemba,Fazenda da Juta,Prata
+Faria Lima,Fradique Coutinho,Amarela
+Fradique Coutinho,Oscar Freire,Amarela
+Oscar Freire,Paulista,Amarela
+Paulista,Higienópolis-Mackenzie,Amarela
+Higienópolis-Mackenzie,República,Amarela
+Capão Redondo,Campo Limpo,Lilás
+Campo Limpo,Vila das Belezas,Lilás
+Vila das Belezas,Giovanni Gronchi,Lilás
+Largo Treze,Brooklin,Lilás
+Brooklin,Borba Gato,Lilás
+Borba Gato,Alto da Boa Vista,Lilás
+Alto da Boa Vista,Adolfo Pinheiro,Lilás
+Sacomã,Alto do Ipiranga,Verde
+Alto do Ipiranga,Santos-Imigrantes,Verde
+Santos-Imigrantes,Chácara Klabin,Verde
+Chácara Klabin,Ana Rosa,Verde
+Ana Rosa,Paraíso,Verde
+Paraíso,Brigadeiro,Verde
+Brigadeiro,Trianon-Masp,Verde
+Trianon-Masp,Consolação,Verde
+Consolação,Paulista,Verde
+Paulista,Sumaré,Verde
+Sumaré,Vila Madalena,Verde
+Palmeiras-Barra Funda,Lapa,Rubi
+Lapa,Piqueri,Rubi
+Jaraguá,Vila Aurora,Rubi
+Vila Aurora,Perus,Rubi
+Perus,Caieiras,Rubi
+Francisco Morato,Campo Limpo Paulista,Rubi
+Campo Limpo Paulista,Várzea Paulista,Rubi
+Várzea Paulista,Jundiaí,Rubi
+Brás,Tatuapé,Coral
+Comendador Ermelino,Itaim Paulista,Coral
+Itaim Paulista,Jardim Romano,Coral
+Jardim Romano,Jardim Helena-Vila Mara,Coral
+Jardim Helena-Vila Mara,Itaquaquecetuba,Coral

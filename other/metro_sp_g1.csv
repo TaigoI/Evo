@@ -1,0 +1,67 @@
+origin,destination,line
+Jabaquara,Conceição,Azul
+Conceição,São Judas,Azul
+São Judas,Saúde,Azul
+Saúde,Praça da Árvore,Azul
+Praça da Árvore,Santa Cruz,Azul
+Santa Cruz,Vila Mariana,Azul
+Vila Mariana,Ana Rosa,Azul
+Liberdade,Sé,Azul
+Sé,Luz,Azul
+Luz,Tiradentes,Azul
+Portuguesa-Tietê,Carandiru,Azul
+Carandiru,Santana,Azul
+Santana,Jardim São Paulo,Azul
+Jardim São Paulo,Parada Inglesa,Azul
+Parada Inglesa,Tucuruvi,Azul
+Anhangabaú,Sé,Vermelha
+Sé,Brás,Vermelha
+Brás,Bresser-Mooca,Vermelha
+Bresser-Mooca,Belem,Vermelha
+Carrão,Penha,Vermelha
+Penha,Vila Matilde,Vermelha
+Patriarca,Artur Alvim,Vermelha
+Artur Alvim,Corinthians-Itaquera,Vermelha
+Vila Prudente,Oratório,Prata
+Oratório,São Lucas,Prata
+São Lucas,Camilo Haddad,Prata
+Camilo Haddad,Vila Tolstói,Prata
+Jardim Planalto,Sapopemba,Prata
+São Mateus,Jardim Colonial,Prata
+Butantã,Pinheiros,Amarela
+Pinheiros,Faria Lima,Amarela
+Faria Lima,Fradique Coutinho,Amarela
+Fradique Coutinho,Oscar Freire,Amarela
+Oscar Freire,Paulista,Amarela
+Paulista,Higienópolis-Mackenzie,Amarela
+Capão Redondo,Campo Limpo,Lilás
+Campo Limpo,Vila das Belezas,Lilás
+Vila das Belezas,Giovanni Gronchi,Lilás
+Giovanni Gronchi,Santo Amaro,Lilás
+Brooklin,Borba Gato,Lilás
+Tamanduateí,Vila Prudente,Verde
+Vila Prudente,Sacomã,Verde
+Brigadeiro,Trianon-Masp,Verde
+Trianon-Masp,Consolação,Verde
+Consolação,Paulista,Verde
+Lapa,Piqueri,Rubi
+Piqueri,Pirituba,Rubi
+Pirituba,Vila Clarice,Rubi
+Vila Clarice,Jaraguá,Rubi
+Jaraguá,Vila Aurora,Rubi
+Vila Aurora,Perus,Rubi
+Perus,Caieiras,Rubi
+Caieiras,Franco da Rocha,Rubi
+Franco da Rocha,Baltazar Fidélis,Rubi
+Baltazar Fidélis,Francisco Morato,Rubi
+Francisco Morato,Campo Limpo Paulista,Rubi
+Campo Limpo Paulista,Várzea Paulista,Rubi
+Várzea Paulista,Jundiaí,Rubi
+Engenheiro Goulart,USP Leste,Coral
+USP Leste,Comendador Ermelino,Coral
+Comendador Ermelino,Itaim Paulista,Coral
+Itaim Paulista,Jardim Romano,Coral
+Jardim Romano,Jardim Helena-Vila Mara,Coral
+Jardim Helena-Vila Mara,Itaquaquecetuba,Coral
+Itaquaquecetuba,Calmon Viana,Coral
+Calmon Viana,Suzano,Coral

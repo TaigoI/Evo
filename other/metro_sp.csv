@@ -1,0 +1,104 @@
+origin,destination,line
+Jabaquara,Conceição,Azul
+Conceição,São Judas,Azul
+São Judas,Saúde,Azul
+Saúde,Praça da Árvore,Azul
+Praça da Árvore,Santa Cruz,Azul
+Santa Cruz,Vila Mariana,Azul
+Vila Mariana,Ana Rosa,Azul
+Ana Rosa,Paraíso,Azul
+Paraíso,Vergueiro,Azul
+Vergueiro,São Joaquim,Azul
+São Joaquim,Liberdade,Azul
+Liberdade,Sé,Azul
+Sé,Luz,Azul
+Luz,Tiradentes,Azul
+Tiradentes,Armênia,Azul
+Armênia,Portuguesa-Tietê,Azul
+Portuguesa-Tietê,Carandiru,Azul
+Carandiru,Santana,Azul
+Santana,Jardim São Paulo,Azul
+Jardim São Paulo,Parada Inglesa,Azul
+Parada Inglesa,Tucuruvi,Azul
+Palmeiras-Barra Funda,Marechal Deodoro,Vermelha
+Marechal Deodoro,Santa Cecília,Vermelha
+Santa Cecília,República,Vermelha
+República,Anhangabaú,Vermelha
+Anhangabaú,Sé,Vermelha
+Sé,Brás,Vermelha
+Brás,Bresser-Mooca,Vermelha
+Bresser-Mooca,Belem,Vermelha
+Belem,Tatuapé,Vermelha
+Tatuapé,Carrão,Vermelha
+Carrão,Penha,Vermelha
+Penha,Vila Matilde,Vermelha
+Vila Matilde,Guilhermina-Esperança,Vermelha
+Guilhermina-Esperança,Patriarca,Vermelha
+Patriarca,Artur Alvim,Vermelha
+Artur Alvim,Corinthians-Itaquera,Vermelha
+Vila Prudente,Oratório,Prata
+Oratório,São Lucas,Prata
+São Lucas,Camilo Haddad,Prata
+Camilo Haddad,Vila Tolstói,Prata
+Vila Tolstói,Vila União,Prata
+Vila União,Jardim Planalto,Prata
+Jardim Planalto,Sapopemba,Prata
+Sapopemba,Fazenda da Juta,Prata
+Fazenda da Juta,São Mateus,Prata
+São Mateus,Jardim Colonial,Prata
+Butantã,Pinheiros,Amarela
+Pinheiros,Faria Lima,Amarela
+Faria Lima,Fradique Coutinho,Amarela
+Fradique Coutinho,Oscar Freire,Amarela
+Oscar Freire,Paulista,Amarela
+Paulista,Higienópolis-Mackenzie,Amarela
+Higienópolis-Mackenzie,República,Amarela
+República,Luz,Amarela
+Capão Redondo,Campo Limpo,Lilás
+Campo Limpo,Vila das Belezas,Lilás
+Vila das Belezas,Giovanni Gronchi,Lilás
+Giovanni Gronchi,Santo Amaro,Lilás
+Santo Amaro,Largo Treze,Lilás
+Largo Treze,Brooklin,Lilás
+Brooklin,Borba Gato,Lilás
+Borba Gato,Alto da Boa Vista,Lilás
+Alto da Boa Vista,Adolfo Pinheiro,Lilás
+Adolfo Pinheiro,Campo Belo,Lilás
+Tamanduateí,Vila Prudente,Verde
+Vila Prudente,Sacomã,Verde
+Sacomã,Alto do Ipiranga,Verde
+Alto do Ipiranga,Santos-Imigrantes,Verde
+Santos-Imigrantes,Chácara Klabin,Verde
+Chácara Klabin,Ana Rosa,Verde
+Ana Rosa,Paraíso,Verde
+Paraíso,Brigadeiro,Verde
+Brigadeiro,Trianon-Masp,Verde
+Trianon-Masp,Consolação,Verde
+Consolação,Paulista,Verde
+Paulista,Sumaré,Verde
+Sumaré,Vila Madalena,Verde
+Luz,Palmeiras-Barra Funda,Rubi
+Palmeiras-Barra Funda,Lapa,Rubi
+Lapa,Piqueri,Rubi
+Piqueri,Pirituba,Rubi
+Pirituba,Vila Clarice,Rubi
+Vila Clarice,Jaraguá,Rubi
+Jaraguá,Vila Aurora,Rubi
+Vila Aurora,Perus,Rubi
+Perus,Caieiras,Rubi
+Caieiras,Franco da Rocha,Rubi
+Franco da Rocha,Baltazar Fidélis,Rubi
+Baltazar Fidélis,Francisco Morato,Rubi
+Francisco Morato,Campo Limpo Paulista,Rubi
+Campo Limpo Paulista,Várzea Paulista,Rubi
+Várzea Paulista,Jundiaí,Rubi
+Brás,Tatuapé,Coral
+Tatuapé,Engenheiro Goulart,Coral
+Engenheiro Goulart,USP Leste,Coral
+USP Leste,Comendador Ermelino,Coral
+Comendador Ermelino,Itaim Paulista,Coral
+Itaim Paulista,Jardim Romano,Coral
+Jardim Romano,Jardim Helena-Vila Mara,Coral
+Jardim Helena-Vila Mara,Itaquaquecetuba,Coral
+Itaquaquecetuba,Calmon Viana,Coral
+Calmon Viana,Suzano,Coral
